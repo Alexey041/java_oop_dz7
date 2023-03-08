@@ -1,4 +1,4 @@
-public class Calc {
+public abstract class Calc {
     protected int type;
 
     public Calc(int type) {
